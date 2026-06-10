@@ -79,4 +79,10 @@ Durante el desarrollo de este proyecto estoy fortaleciendo conocimientos en:
 
 ## Capturas
 
-Las capturas del proyecto serán agregadas próximamente.
+### Dashboard
+
+![Dashboard](dashboard.jpeg)
+
+### Crear cliente y préstamo
+
+![Crear cliente y préstamo](create_loan.jpeg)
